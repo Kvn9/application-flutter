@@ -1,3 +1,5 @@
+## Application Flutter : Interface de connexion 📱
+
 <b>Description :</b>
 
 Ce projet consiste en une application mobile 📱 développée en Flutter qui offre une interface de connexion pour les administrateurs. Une fois connectés, les administrateurs ont la possibilité d'ajouter, modifier ou supprimer des articles. De plus, ils peuvent également gérer les utilisateurs en ajoutant, modifiant ou supprimant des comptes d'utilisateurs.
